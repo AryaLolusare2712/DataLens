@@ -12,7 +12,7 @@ Link : https://datalens-d8jw93nquhuwgnanrrrfgu.streamlit.app/
 - 🟣 **Heatmap** — Pearson correlation heatmap
 - ✦ **AI Insights** — auto-generated stat cards per column
 - 🔍 **Explorer** — searchable data table
-- 🤖 **AI Chat** — chat with Gemini 2.5 about your data
+- 🤖 **AI Chat** — chat with Gemini 1.5 about your data
 
 ## Setup
 
