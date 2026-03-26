@@ -2,6 +2,9 @@
 
 A full-featured AI-powered data analytics dashboard built with **Streamlit** and **Gemini 1.5 Flash**.
 
+## 🚀 Live Demo
+Link : https://datalens-d8jw93nquhuwgnanrrrfgu.streamlit.app/
+
 ## Features
 - 📤 **Upload** — drag & drop CSV/Excel files
 - 📊 **Overview** — KPI cards, dataset profile, column types
