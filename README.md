@@ -1,6 +1,6 @@
 # 🔭 DataLens – AI Analytics Dashboard (Python)
 
-A full-featured AI-powered data analytics dashboard built with **Streamlit** and **Gemini 1.5 Flash**.
+A full-featured AI-powered data analytics dashboard built with **Streamlit** and **Gemini 2.5 Flash**.
 
 ## 🚀 Live Demo
 Link : https://datalens-d8jw93nquhuwgnanrrrfgu.streamlit.app/
@@ -12,7 +12,7 @@ Link : https://datalens-d8jw93nquhuwgnanrrrfgu.streamlit.app/
 - 🟣 **Heatmap** — Pearson correlation heatmap
 - ✦ **AI Insights** — auto-generated stat cards per column
 - 🔍 **Explorer** — searchable data table
-- 🤖 **AI Chat** — chat with Gemini 1.5 about your data
+- 🤖 **AI Chat** — chat with Gemini 2.5 about your data
 
 ## Setup
 
@@ -36,4 +36,4 @@ streamlit run datalens_app.py
   ```
 
 ## Model Used
-**gemini-1.5-flash-preview-04-17** — Gemini 1.5 Flash (latest)
+**gemini-2.5-flash-preview-04-17** — Gemini 2.5 Flash (latest)
