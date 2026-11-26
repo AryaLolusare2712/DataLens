@@ -1,5 +1,16 @@
 # DataLens – AI Analytics Dashboard (Python)
 
+## Architecture
+
+```mermaid
+flowchart LR
+  U[Analyst] --> S[Streamlit dashboard]
+  S --> I[Data ingestion]
+  I --> A[Analytics and visualisation]
+  A --> G[Gemini insight generation]
+  G --> O[Interactive dashboard insights]
+```
+
 A full-featured AI-powered data analytics dashboard built with **Streamlit** and **Gemini 2.5 Flash**.
 
 ## Screenshots
