@@ -1,5 +1,9 @@
 # DataLens – AI Analytics Dashboard (Python)
 
+## Project contribution
+
+Combines interactive analytics and Gemini-powered interpretation so non-specialists can turn datasets into understandable insights.
+
 ## Architecture
 
 ```mermaid
